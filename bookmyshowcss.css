@@ -42,7 +42,8 @@ body{
 
 }
 .recomentedcarusel{
-    height: 440px;
+    
+    height: 450px; 
 }
 .borderstyle{
     border-radius: 20px;
@@ -64,3 +65,17 @@ body{
 .navbg{
     background-color: rgb(51, 53, 69);
 }
+.moviedetails{
+    background-image: url(./images/malayankunju_background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+
+}
+.material-symbols-outlined{
+    font-variation-settings:
+    'FILL' 1,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 48
+  }
